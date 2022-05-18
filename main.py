@@ -1,6 +1,5 @@
 def handler(event, context):
     print("#########################################################")
-    print("Nós Somos Cruzeiro")
+    print("Cruzeiro Esporte Clube")
     print(event)
-    print(context)
     return "ok"
